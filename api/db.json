@@ -1,0 +1,130 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Bernd Starrdas",
+      "email": "bernd@gmail.comsds",
+      "program": "Data Science",
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "name": "Rowan Cash",
+      "email": "nisi.nibh@icloud.edu",
+      "program": "Digital Marketing",
+      "country": "Japan"
+    },
+    {
+      "id": 4,
+      "name": "Kessie Dale",
+      "email": "orci@google.couk",
+      "program": "UI/UX Designer",
+      "country": "Singapore"
+    },
+    {
+      "id": 5,
+      "name": "Ivor Smith",
+      "email": "consequat.auctor.nunc@protonmail.ca",
+      "program": "Fullstack Web Development",
+      "country": "Thailand"
+    },
+    {
+      "name": "Wang Grant",
+      "email": "urna.ut@outlook.net",
+      "country": "Philippines",
+      "program": "Fullstack Web Development",
+      "id": 6
+    },
+    {
+      "name": "Kuame Faulkner",
+      "email": "semper.et.lacinia@protonmail.edu",
+      "country": "Indonesia",
+      "program": "Data Science",
+      "id": 7
+    },
+    {
+      "name": "Drew Floyd",
+      "email": "amet.luctus@aol.ca",
+      "country": "Ireland",
+      "program": "Data Science",
+      "id": 8
+    },
+    {
+      "name": "Wayne Ruiz",
+      "email": "non.sapien.molestie@icloud.edu",
+      "country": "Indonesia",
+      "program": "Fullstack Web Development",
+      "id": 9
+    },
+    {
+      "name": "Lila Barr",
+      "email": "mattis.velit.justo@aol.net",
+      "country": "Brazil",
+      "program": "Data Science",
+      "id": 10
+    },
+    {
+      "name": "Mira Cross",
+      "email": "at@hotmail.couk",
+      "country": "Poland",
+      "program": "Digital Marketing",
+      "id": 11
+    },
+    {
+      "name": "Fredericka Tyson",
+      "email": "morbi@hotmail.net",
+      "country": "Chile",
+      "program": "UI/UX Designer",
+      "id": 12
+    },
+    {
+      "name": "Brynn Rodriguez",
+      "email": "dolor.vitae@yahoo.net",
+      "country": "South Africa",
+      "program": "Digital Marketing",
+      "id": 13
+    },
+    {
+      "name": "Leilani Small",
+      "email": "mauris.suspendisse@aol.com",
+      "country": "Costa Rica",
+      "program": "UI/UX Designer",
+      "id": 14
+    },
+    {
+      "name": "Dylan Day",
+      "email": "felis@protonmail.couk",
+      "country": "South Africa",
+      "program": "Fullstack Web Development",
+      "id": 15
+    },
+    {
+      "name": "Jerome Nicholson",
+      "email": "in.sodales@aol.ca",
+      "country": "Ireland",
+      "program": "Digital Marketing",
+      "id": 16
+    },
+    {
+      "name": "Alec Mcneil",
+      "email": "et@outlook.ca",
+      "country": "Turkey",
+      "program": "Fullstack Web Development",
+      "id": 17
+    },
+    {
+      "name": "Yoshio Howard",
+      "email": "aliquam.nec@google.edu",
+      "country": "United States",
+      "program": "Data Science",
+      "id": 18
+    },
+    {
+      "name": "Winaldo Satryadi",
+      "email": "winaldo_satryadi@rocketmail.com",
+      "program": "Fullstack Web Development",
+      "country": "Japan",
+      "id": 19
+    }
+  ]
+}

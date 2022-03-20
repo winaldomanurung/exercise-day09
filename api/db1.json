@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Bernd Starrdas",
+      "email": "bernd@gmail.comsds",
+      "program": "Data Science",
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "name": "Rowan Cash",
+      "email": "nisi.nibh@icloud.edu",
+      "program": "Digital Marketing",
+      "country": "Japan"
+    },
+    {
+      "id": 4,
+      "name": "Kessie Dale",
+      "email": "orci@google.couk",
+      "program": "UI/UX Designer",
+      "country": "Singapore"
+    },
+    {
+      "id": 5,
+      "name": "Ivor Smith",
+      "email": "consequat.auctor.nunc@protonmail.ca",
+      "program": "Fullstack Web Development",
+      "country": "Thailand"
+    },
+    {
+      "name": "Drew Floyd",
+      "email": "amet.luctus@aol.ca",
+      "country": "Ireland",
+      "program": "Data Science",
+      "id": 8
+    },
+    {
+      "name": "Wayne Ruiz",
+      "email": "non.sapien.molestie@icloud.edu",
+      "country": "Indonesia",
+      "program": "Fullstack Web Development",
+      "id": 9
+    },
+    {
+      "name": "Lila Barr",
+      "email": "mattis.velit.justo@aol.net",
+      "country": "Brazil",
+      "program": "Data Science",
+      "id": 10
+    }
+  ]
+}
